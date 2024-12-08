@@ -1,0 +1,6 @@
+[submodule "lib/solidity-cbor"]
+	path = lib/solidity-cbor
+	url = https://github.com/turbocrime/solidity-cbor
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
